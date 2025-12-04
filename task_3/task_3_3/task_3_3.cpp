@@ -42,7 +42,7 @@ void createIncorrectBooksFile() {
     }
     inputFile.close();
     
- 
+    // Перемешиваем массивы
     srand(time(0));
     random_shuffle(names.begin(), names.end());
     random_shuffle(authors.begin(), authors.end());
@@ -65,7 +65,7 @@ void createIncorrectBooksFile() {
     outputFile.close();
     cout << "Файл incorrect_books.txt успешно создан с " << entriesCount << " перемешанными записями!" << endl;
     
-    
+    // Показываем пример содержимого
     cout << "\nПервая запись из incorrect_books.txt:" << endl;
     cout << "=====================================" << endl;
     ifstream showFile("incorrect_books.txt");

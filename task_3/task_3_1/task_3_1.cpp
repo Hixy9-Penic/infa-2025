@@ -22,29 +22,29 @@ void createBooksFile() {
         return;
     }
     
-    file << "1. Name: To Kill a Mockingbird" << endl;
-    file << "   Author: Harper Lee" << endl;
-    file << "   Year: 1960" << endl;
+    file << "1. Name:Anna Karenina" << endl;
+    file << "   Author: Leo Tolstoy" << endl;
+    file << "   Year: 1877" << endl;
     file << "   ----------" << endl;
     
-    file << "2. Name: 1984" << endl;
-    file << "   Author: George Orwell" << endl;
-    file << "   Year: 1949" << endl;
+    file << "2. Name: Dead Souls" << endl;
+    file << "   Author: Nikolai Gogol" << endl;
+    file << "   Year: 1842" << endl;
     file << "   ----------" << endl;
     
-    file << "3. Name: Pride and Prejudice" << endl;
-    file << "   Author: Jane Austen" << endl;
-    file << "   Year: 1813" << endl;
+    file << "3. Name: Fathers and Sons" << endl;
+    file << "   Author: Ivan Turgenev" << endl;
+    file << "   Year: 1862" << endl;
     file << "   ----------" << endl;
     
-    file << "4. Name: The Great Gatsby" << endl;
-    file << "   Author: F. Scott Fitzgerald" << endl;
-    file << "   Year: 1925" << endl;
+    file << "4. Name: Crime and Punishment" << endl;
+    file << "   Author: Fyodor Dostoevsky" << endl;
+    file << "   Year: 1866" << endl;
     file << "   ----------" << endl;
     
-    file << "5. Name: Moby Dick" << endl;
-    file << "   Author: Herman Melville" << endl;
-    file << "   Year: 1851" << endl;
+    file << "5. Name: The Master and Margarita" << endl;
+    file << "   Author: Mikhail Bulgakov" << endl;
+    file << "   Year: 1928" << endl;
     file << "   ----------" << endl;
     
     file.close();

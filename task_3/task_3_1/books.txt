@@ -1,20 +1,20 @@
-1. Name: To Kill a Mockingbird
-   Author: Harper Lee
-   Year: 1960
+1. Name:Anna Karenina
+   Author: Leo Tolstoy
+   Year: 1877
    ----------
-2. Name: 1984
-   Author: George Orwell
-   Year: 1949
+2. Name: Dead Souls
+   Author: Nikolai Gogol
+   Year: 1842
    ----------
-3. Name: Pride and Prejudice
-   Author: Jane Austen
-   Year: 1813
+3. Name: Fathers and Sons
+   Author: Ivan Turgenev
+   Year: 1862
    ----------
-4. Name: The Great Gatsby
-   Author: F. Scott Fitzgerald
-   Year: 1925
+4. Name: Crime and Punishment
+   Author: Fyodor Dostoevsky
+   Year: 1866
    ----------
-5. Name: Moby Dick
-   Author: Herman Melville
-   Year: 1851
+5. Name: The Master and Margarita
+   Author: Mikhail Bulgakov
+   Year: 1928
    ----------
